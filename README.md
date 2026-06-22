@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-marfil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Roce de marfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-marfil/) |
+| **Get License** | [Commercial Licensing for Roce de marfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-marfil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc974573c1a467c9cc1f976312a46a7b5e3e842d4b61b86d43ae24a39bf89be0` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

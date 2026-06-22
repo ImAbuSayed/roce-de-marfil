@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de marfil
+
+This log tracks the cryptographic history and versioning for the song **Roce de marfil** (roce-de-marfil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:43:16.962126 | `v1` | `fc974573c1a467c9cc1f976312a46a7b5e3e842d4b61b86d43ae24a39bf89be0` | `18172e042c37aa2555b6165c48da12cd77d6b012feba1aae79310227e6691446` | `2026-06-22_roce-de-marfil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
